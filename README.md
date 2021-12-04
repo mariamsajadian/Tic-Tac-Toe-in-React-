@@ -1,4 +1,4 @@
-# Tic Tac Toe game application
+# Tic Tac Toe game application using React
 
 ![alt text](https://github.com/mariamsajadian/Tic-Tac-Toe-in-React-/blob/main/src/img.jpg?raw=true)
 ## Available Scripts
